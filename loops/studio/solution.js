@@ -1,5 +1,5 @@
 const input = require('readline-sync');
-
+console.log("I recommend MRE's but this will do! ")
 // Part A: #1 Populate these arrays
 
 let protein = ['chicken', 'pork', 'tofu', 'beef', 'fish', 'beans'];
