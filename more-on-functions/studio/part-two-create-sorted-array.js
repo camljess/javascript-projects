@@ -19,7 +19,10 @@ function findMinValue(arr){
 6) Be sure to print the results in order to verify your code.*/
 
 //Your function here...
-
+function leatToGreatest(newArray, function) {
+  let array = []
+  
+}
 /* BONUS MISSION: Refactor your sorting function to use recursion below:
  */
 
